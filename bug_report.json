@@ -1,1 +1,7 @@
-
+{
+    "ID": 1,
+    "Title": "Bug for fun",
+    "Steps": "Delete windows 10 from your computer",
+    "EXP": "Delete windows",
+    "Fact": "Error output"
+};
